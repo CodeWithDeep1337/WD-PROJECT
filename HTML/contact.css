@@ -1,0 +1,33 @@
+ 
+ .link{
+    text-decoration: none;
+    color:antiquewhite;
+
+ }
+ .nav-link {
+  display: flex;
+  background-color: #3E2723;
+  list-style: none;
+  gap: 200px;
+  margin: 0% auto;
+  margin-top: 5px;
+  border-radius: 20px;
+  margin-top:10px;
+  margin-bottom: 10px;;
+  
+ }
+ .footer {
+  background-color: brown;
+  text-align: center;
+  font-size: large;
+  color: white;
+}
+ .body{
+   background-color:mistyrose;
+ }
+ .back-home{
+   a:hover{
+      color:blue;
+    }
+
+ }

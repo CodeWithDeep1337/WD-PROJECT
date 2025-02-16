@@ -1,0 +1,66 @@
+ .headerInfo {
+   background-image: url("https://www.shutterstock.com/image-vector/bangalore-skyline-historic-buildings-sketch-260nw-2402933137.jpg");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-size: 100% 100%;
+   text-align: center;
+ }
+
+  
+
+ #Info {
+   display: inline-block;
+
+   margin-top: 20px;
+   line-height: 30px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: #8B4513;
+   height: 65px;
+   width: 700px;
+   text-align: center;
+   color: #F5DE83;
+   border-radius: 20%;
+
+
+ }
+
+ #InfO {
+
+   margin-top: 200px;
+   display: inline-block;
+   background-color: #8B0000;
+   color: #15cf66;
+ }
+
+ .nav-link {
+   display: flex;
+   background-color: #3E2723;
+   list-style: none;
+   gap: 200px;
+   margin: 0% auto;
+   margin-top: 5px;
+   
+  }
+
+ .link {
+   color: #FFD700;
+   font-size: 20px;
+   text-decoration: none;
+
+ }
+
+ .background {
+   background-image: url("https://img.freepik.com/free-vector/modern-indian-flag-theme-tricolor-background-republic-day_1055-23054.jpg?semt=ais_hybrid");
+   background-repeat: no-repeat;
+   background-attachment: scroll;
+   background-size: 100% 100%;
+
+ }
+
+ .footer {
+   background-color: brown;
+   text-align: center;
+   font-size: large;
+   color: white;
+ }
